@@ -10,5 +10,5 @@ The main objective of this project is to develop digital methods for detecting a
 
 ## Results
 
-<img src="https://github.com/centralelyon/Sound-Detection/blob/main/results.png" alt="Results" width="300"/>
+<img src="https://github.com/centralelyon/Sound-Detection/blob/main/results.png" alt="Results" width="700"/>
 
